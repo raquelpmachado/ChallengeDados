@@ -13,4 +13,5 @@ A segunda empresa, Hermex, necessita analisar dados sobre a logística das entre
 
 
 A terceira empresa, Meteora, precisa entender como anda a sua área de vendas, pensando em hipóteses e com base em hipóteses, analisar possíveis mudanças de cenário.
- 
+
+![Prancheta 2 cópia 2](https://github.com/raquelpmachado/ChallengeDados/assets/110124272/19aa0fbe-1599-42ad-be78-f7256c24e905)
